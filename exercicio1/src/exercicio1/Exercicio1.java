@@ -39,10 +39,10 @@ public class Exercicio1 {
 		percentualVotosValidos = percentualVotosValidos();
 		percentualVotosBrancos = percentualVotosBrancos();
 		percentualVotosNulos = percentualVotosNulos();
-
-    	System.out.println("Percentual de votos válidos em relação ao total de eleitores: " + percentualVotosValidos + "%");
-    	System.out.println("Percentual de votos em branco em relação ao total de eleitores: " + percentualVotosBrancos + "%");
-    	System.out.println("Percentual de votos nulos em relação ao total de eleitores: " + percentualVotosNulos + "%");
+		
+		System.out.println("Percentual de votos válidos em relação ao total de eleitores: " + percentualVotosValidos + "%");
+		System.out.println("Percentual de votos em branco em relação ao total de eleitores: " + percentualVotosBrancos + "%");
+		System.out.println("Percentual de votos nulos em relação ao total de eleitores: " + percentualVotosNulos + "%");
     }
 
 }
